@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/indrajitchand16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="indrajitchand16" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/indrajit chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indrajit chandra" height="30" width="40" /></a>
-<a href="https://fb.com/indrajit chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="indrajit chandra" height="30" width="40" /></a>
+<a href="https://fb.com/Indrajit chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="indrajit chandra" height="30" width="40" /></a>
 <a href="https://instagram.com/chandra.indrajit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandra.indrajit" height="30" width="40" /></a>
 </p>
 
